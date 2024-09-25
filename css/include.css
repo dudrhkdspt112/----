@@ -1,0 +1,32 @@
+@charset "uft-8";
+/* header */
+.header-box{
+    display: flex;
+    
+}
+.menu-box
+/* logo */
+.logo{}
+.logo > a{}
+.logo a > img{
+    width:70px;
+}
+/* logo */
+/* menu */
+.gnb{}
+.lnb{}
+.lnb a{}
+.sub-menu{
+    display: none;
+}
+.menu-inner{}
+.menu-inner li{}
+.menu-inner li a{}
+/* util */
+.util{}
+.util a{}
+/* util */
+.icon-search{}
+.icon-search a {}
+/* menu */
+/* header */
